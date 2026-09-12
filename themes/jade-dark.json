@@ -1,10 +1,10 @@
 {
-  "name": "Jade Dark",
-  "base": "dark",
-  "version": "1.0.0",
-  "author": {
-    "name": "Henry",
-    "email": "huy@tableplus.com"
+  "name" : "Jade Dark",
+  "base" : "dark",
+  "version" : "1.0.0",
+  "author" : {
+    "name" : "Henry",
+    "email" : "huy@tableplus.com"
   },
   "colors": {
     "AppChartPaletteColor1" : "#FF6B6B",
@@ -24,9 +24,9 @@
     "AppConnectionStatusReconnectingBackground" : "#8B6826",
     "AppContentBackground" : "#002B36",
     "AppControlBackground" : "#002E39",
-    "AppControlBorder" : "#164B59",
+    "AppControlBorder" : "#1E4550",
     "AppInputInvalidBackground" : "#EF4B60",
-    "AppInputValidBackground" : "#B6D982",
+    "AppInputValidBackground" : "#558C3A",
     "AppLogText" : "#D5D5D5",
     "AppNotificationErrorBackground" : "#8F2F31",
     "AppNotificationSuccessBackground" : "#558C3A",
@@ -37,10 +37,10 @@
     "AppSidebarBackground" : "#00212B",
     "AppTabBackground" : "#003B4A",
     "AppTabButtonHoverBackground" : "#333333",
-    "AppTabHoverBackground" : "#004355",
-    "AppTabSelectedBackground" : "#133843",
+    "AppTabHoverBackground" : "#005167",
+    "AppTabSelectedBackground" : "#216C82",
     "AppTabSelectedBarInactiveText" : "#B2B2B2",
-    "AppTabSelectedWindowInactiveBackground" : "#133843",
+    "AppTabSelectedWindowInactiveBackground" : "#216C82",
     "AppTabSelectedWindowInactiveText" : "#B2B2B2",
     "AppTabUnselectedText" : "#B2B2B2",
     "AppWelcomeButtonBackground" : "#404040",
@@ -56,7 +56,7 @@
     "EditorErrorBackground" : "#8F2F31",
     "EditorFunctionText" : "#7CB342",
     "EditorIdentifierText" : "#529BD8",
-    "EditorInvisibleCharacterText" : "#424242",
+    "EditorInvisibleCharacterText" : "#8D8D8D",
     "EditorKeywordText" : "#529BD8",
     "EditorMatchingBracketBackground" : "#8F2F31",
     "EditorNumberText" : "#B57AFF",
@@ -68,7 +68,7 @@
     "GridDateTimeText" : "#D5D5D5",
     "GridDropdownText" : "#D5D5D5",
     "GridEvenRowBackground" : "#003644",
-    "GridExpandedCellText" : "#D5D5D5",
+    "GridHeaderBackground" : "#002B36",
     "GridHeaderText" : "#D5D5D5",
     "GridIconCellText" : "#D5D5D5",
     "GridInactiveSelectionText" : "#7E7E7E",
@@ -87,6 +87,6 @@
     "SpatialPreviewPolygonFill2" : "#8B6826",
     "SpatialPreviewPolygonFill3" : "#529BD8"
   },
-  "icons": {
+  "icons" : {
   }
 }
